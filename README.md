@@ -3,6 +3,6 @@
 ## Language & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,dart,git,figma" />
+    <img src="https://skillicons.dev/icons?i=c,dart,flutter,git,linux,arch,vscode,android studio,figma" />
   </a>
 </p>
