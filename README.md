@@ -1,43 +1,20 @@
-[![20250220-143912.png](https://i.postimg.cc/NjJxbP6H/20250220-143912.png)](https://postimg.cc/87vWz4np)
-
-# 💻 Tech Arsenal
-
 <div align="center">
-  <h3>🧰 Languages & Frameworks</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" height="40"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Dart & Flutter" height="40"/>
-  </a>
-  
-  <h3>🔧 Development Tools</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio" alt="Git, VSCode & Android Studio" height="40"/>
-  </a>
-  
-  <h3>🐧 Environment</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch" alt="Linux & Arch" height="40"/>
-  </a>
-  
-  <h3>🎨 Design</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40"/>
-  </a>
+  <img src="https://i.postimg.cc/NjJxbP6H/20250220-143912.png" alt="Profile Banner" width="100%">
 
-  <br><br>
+  ## OpenStrata101
+
+  [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) 
+  [![Dart & Flutter](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev) 
+  [![Tools](https://skillicons.dev/icons?i=git,vscode,androidstudio)](https://skillicons.dev)
+  [![Environment](https://skillicons.dev/icons?i=linux,arch)](https://skillicons.dev)
+  [![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
   <details>
-    <summary>💡 <b>Why these technologies?</b></summary>
-    <br>
-    <p>This tech stack allows me to build efficient cross-platform applications with beautiful UI/UX from concept to deployment!</p>
+    <summary>✨ About my stack</summary>
+    <p>Building cross-platform experiences with clean design and efficient performance.</p>
   </details>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=OpenStrata101&theme=nord&show_icons=true&hide_border=true&count_private=false&hide_title=true&bg_color=00000000" alt="GitHub Stats">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpenStrata101&theme=nord&hide_border=true&background=00000000" alt="GitHub Streak">
 </div>
-
-## Github Stats
-![OpenStrata101's Stats](https://github-readme-stats.vercel.app/api?username=OpenStrata101&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
-
-![OpenStrata101's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OpenStrata101&theme=tokyonight&hide_border=true)
-
-![OpenStrata101's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenStrata101&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
