@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/NjJxbP6H/20250220-143912.png" alt="Profile Banner" width="100%">
   
-  <h1>Welcome to my digital garden 🌱</h1>
+  <h1>Hey Guys 🌱</h1>
   
   <p>
     <a href="https://github.com/OpenStrata101"><img src="https://img.shields.io/github/followers/OpenStrata101?label=Follow&style=social" alt="GitHub followers"></a>
@@ -33,21 +33,21 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Dart & Flutter" height="40"/>
       </a>
-    </div>    
+    </div>
     <!-- Tools -->
     <div style="background: rgba(155, 89, 182, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
       <h3>🛠️ Tools</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio" alt="Git, VSCode & Android Studio" height="40"/>
       </a>
-    </div>   
+    </div>
     <!-- Environment -->
     <div style="background: rgba(46, 204, 113, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
       <h3>🐧 Environment</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,arch" alt="Linux & Arch" height="40"/>
       </a>
-    </div> 
+    </div>
     <!-- Design -->
     <div style="background: rgba(230, 126, 34, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
       <h3>🎨 Design</h3>
@@ -58,7 +58,7 @@
   </div>
 
   <br>
-  
+
   <!-- GitHub Stats Section -->
   <h2>📊 GitHub Analytics</h2>
   
@@ -78,19 +78,24 @@
   <h2>🔥 Contribution Graph</h2>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OpenStrata101&theme=nord&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
-
+  
   <!-- Connect Section -->
   <h2>🔗 Let's Connect</h2>
   
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <p align="center">
+    <a href="https://github.com/OpenStrata101">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
+    </a>
+    <a href="https://discord.com/users/yourusername">
+      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"/>
+    </a>
+    <a href="https://gitlab.com/Openstrata101">
+      <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="40"/>
+    </a>
+    <a href="https://instagram.com/___rakib.___">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
+    </a>
+  </p>
   
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%">
   
