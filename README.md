@@ -27,31 +27,27 @@
         <img src="https://skillicons.dev/icons?i=c" alt="C" height="40"/>
       </a>
     </div>
-    
     <!-- App Development -->
     <div style="background: rgba(52, 152, 219, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
       <h3>📱 App Dev</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Dart & Flutter" height="40"/>
       </a>
-    </div>
-    
+    </div>    
     <!-- Tools -->
     <div style="background: rgba(155, 89, 182, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
       <h3>🛠️ Tools</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio" alt="Git, VSCode & Android Studio" height="40"/>
       </a>
-    </div>
-    
+    </div>   
     <!-- Environment -->
     <div style="background: rgba(46, 204, 113, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
       <h3>🐧 Environment</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,arch" alt="Linux & Arch" height="40"/>
       </a>
-    </div>
-    
+    </div> 
     <!-- Design -->
     <div style="background: rgba(230, 126, 34, 0.1); padding: 20px; border-radius: 10px; margin: 10px;">
       <h3>🎨 Design</h3>
@@ -62,17 +58,6 @@
   </div>
 
   <br>
-  
-  <!-- Weekly Coding Stats -->
-  <h2>⏱️ My Coding Time This Week</h2>
-  
-  ```text
-  Flutter    █████████▓░░░░░░░   60.32 % 
-  Dart       ████▓░░░░░░░░░░░░   25.18 % 
-  C          ██▒░░░░░░░░░░░░░░   12.45 % 
-  YAML       ▒░░░░░░░░░░░░░░░░   01.55 % 
-  Markdown   ░░░░░░░░░░░░░░░░░   00.50 % 
-  ```
   
   <!-- GitHub Stats Section -->
   <h2>📊 GitHub Analytics</h2>
@@ -93,12 +78,7 @@
   <h2>🔥 Contribution Graph</h2>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OpenStrata101&theme=nord&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
-  
-  <!-- Funny Metrics -->
-  <h2>⚡ Fun Facts</h2>
-  
-  <img src="https://metrics.lecoq.io/OpenStrata101?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FKolkata" width="70%">
-  
+
   <!-- Connect Section -->
   <h2>🔗 Let's Connect</h2>
   
@@ -111,12 +91,6 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
-  <details>
-    <summary>✨ More About My Workflow</summary>
-    <p>I'm passionate about creating fluid, intuitive interfaces that make technology accessible to everyone. My development philosophy centers around clean architecture, test-driven development, and continuous learning.</p>
-    <p>Currently exploring: SwiftUI, backend integration with Firebase, and advanced state management patterns.</p>
-  </details>
   
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%">
   
