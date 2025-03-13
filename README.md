@@ -1,71 +1,20 @@
-<style>
-  .neon { color: #6495ED; text-shadow: 0 0 5px #6495ED, 0 0 10px #6495ED; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 15px; }
-  .card { background: rgba(255,255,255,0.05); padding: 20px; border-radius: 10px; transition: transform 0.3s; }
-  .card:hover { transform: translateY(-5px); }
-  .icon { filter: drop-shadow(0 0 5px #6495ED); }
-  .stat { background: rgba(255,255,255,0.03); border-radius: 10px; padding: 15px; }
-</style>
-
-<div align="center" style="background: #0D1117; color: white; padding: 30px; min-height: 100vh;">
-  <!-- Banner -->
-  <img src="https://i.postimg.cc/NjJxbP6H/20250220-143912.png" width="100%" style="border-radius: 10px;">
-  
-  <!-- Greeting -->
-  <h1 class="neon">Rakib 🌌</h1>
-  <p style="color: #6495ED;">Cross-dimensional developer</p>
-
-  <!-- Quick Stats -->
-  <div class="grid" style="max-width: 800px; margin: 30px auto;">
-    <div class="stat">
-      <img src="https://komarev.com/ghpvc/?username=OpenStrata101&color=blueviolet&style=flat-square" width="100%">
-    </div>
-    <div class="stat">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpenStrata101&theme=dark&background=0D1117" width="100%">
-    </div>
-  </div>
-
-  <!-- Skills Matrix -->
-  <h2 class="neon">Skill Nodes</h2>
-  <div class="grid" style="max-width: 1000px; margin: 30px auto;">
-    <div class="card">
-      <img class="icon" src="https://skillicons.dev/icons?i=c" height="40">
-      <p>Systems Programming</p>
-    </div>
-    <div class="card">
-      <img class="icon" src="https://skillicons.dev/icons?i=dart,flutter" height="40">
-      <p>Cross-platform</p>
-    </div>
-    <div class="card">
-      <img class="icon" src="https://skillicons.dev/icons?i=linux,arch" height="40">
-      <p>Linux Wizardry</p>
-    </div>
-    <div class="card">
-      <img class="icon" src="https://skillicons.dev/icons?i=git,vscode" height="40">
-      <p>DevOps Tools</p>
-    </div>
-    <div class="card">
-      <img class="icon" src="https://skillicons.dev/icons?i=figma" height="40">
-      <p>UI/UX Design</p>
-    </div>
-  </div>
-
-  <!-- Connect -->
-  <h2 class="neon">Portals</h2>
-  <div class="grid" style="max-width: 400px; margin: 30px auto;">
-    <a href="https://github.com/OpenStrata101" class="card">
-      <img src="https://skillicons.dev/icons?i=github" height="40">
-    </a>
-    <a href="#" class="card">
-      <img src="https://skillicons.dev/icons?i=gitlab" height="40">
-    </a>
-    <a href="#" class="card">
-      <img src="https://skillicons.dev/icons?i=instagram" height="40">
-    </a>
-  </div>
-
-  <!-- Footer -->
-  <div style="position: fixed; bottom: 20px; width: 100%;">
-    <p class="neon" style="font-size: 12px;">⚡ Powered by starlight</p>
-  </div>
-</div>
+<h1>Hi 👋, I'm coder_0x.</h1>
+<p>I write code like I solve puzzles—messy at first, but eventually it works (and if it doesn’t, there’s always Stack Overflow). 🔧💡</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.facebook.com/eni.gmaflux" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/___rakib.___" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coder_0x&show_icons=true&locale=en" alt="coder_0x" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder_0x&" alt="coder_0x" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=coder_0x&show_icons=true&locale=en&layout=compact" alt="coder_0x" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder_0x" alt="coder_0x" /></a></p>
